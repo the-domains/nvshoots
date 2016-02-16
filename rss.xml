@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[NVshoots]]></title>
+        <description><![CDATA[NVshoots]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Tue, 16 Feb 2016 15:40:29 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[NV Shoots Paris 2012]]></title>
+            <description><![CDATA[<article><h1>NV Shoots Paris 2012</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/9bfd272e0ad61a29c5a00b1c70e7c706a1142814.jpg"></article>]]></description>
+            <link>undefinednv-shoots-paris-2012/index.html</link>
+            <guid isPermaLink="false">b2566310-0ff6-4cf2-a34c-6dc33d99890d</guid>
+            <pubDate>Tue, 16 Feb 2016 15:39:18 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
