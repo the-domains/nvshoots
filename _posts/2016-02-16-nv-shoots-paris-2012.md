@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-02-16T17:25:35.850Z'
-dateModified: '2016-02-16T15:57:59.002Z'
+datePublished: '2016-02-17T11:32:37.758Z'
+dateModified: '2016-02-16T17:25:41.819Z'
 title: NV Shoots Paris 2012
 author: []
 sourcePath: _posts/2016-02-16-nv-shoots-paris-2012.md
