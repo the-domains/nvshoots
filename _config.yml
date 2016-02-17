@@ -1,4 +1,19 @@
-analytics: {}
+name: NVshoots
+favicon: null
+layout_spectrum: 1
+typography_spectrum: 0.9798302040435374
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 color:
   brandColors:
     - '#f0f5f9'
@@ -6,13 +21,8 @@ color:
     - '#0a0907'
     - '#2d3224'
     - '#9e929e'
-  brandStrength: 0
-  lightness: 0
+  brandStrength: 1
+  lightness: 1
+  saturation: 1
   rhythmicContrast: 1
-  saturation: 0.499155
-cta: {}
-layout_spectrum: 1
-name: NVshoots
-opengraph: {}
 purpose: []
-typography_spectrum: 0.9798302040435374
